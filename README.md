@@ -29,3 +29,7 @@ A linear regression model was developed using biking and smoking as predictors f
 This project underscores the significant impact of lifestyle factors, such as biking and smoking, on heart disease risk. The predictive model developed provides strong evidence that increased physical activity (biking) is associated with lower heart disease prevalence, while higher smoking levels correlate with increased heart disease risk. These insights highlight the importance of promoting healthier lifestyle choices to combat heart disease.
 
 Future work could expand the dataset to include additional variables and employ more sophisticated machine learning techniques to further refine the predictive model. Ultimately, this project aims to contribute to the broader effort of reducing heart disease through data-driven insights and targeted interventions.
+
+# NOTE: you can access the code on Kaggle with the link below
+[An Effective Way of Curing Heart Diseases Problem](https://www.kaggle.com/code/adekunlejoseph/an-effective-way-of-curing-heart-diseases-problem)
+
